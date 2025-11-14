@@ -6,7 +6,7 @@ Open-world 3D survival game made with Unity. 🎮
 </p>
 
 <h4 align="center"> 
-	3D Survival Game (Geriye Dönüş) - Main Menu 
+	3D Survival Game - Main Menu 
 </h4>
  <br>
 
@@ -64,46 +64,28 @@ Open the cloned repository in unity.
 	
 #### Inventory System :	
 
-![Gif](Screenshots/Gifs/inventory-and-pickup.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/inventory-and-pickup.gif?raw=true)
 	
 #### Gathering Woods : 
 	
-![Gif](Screenshots/Gifs/gathering-woods.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/gathering-woods.gif?raw=true)
 	
 #### Gathering Stones : 
 	
-![Gif](Screenshots/Gifs/gathering-stones.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/gathering-stones.gif?raw=true)
 	
 #### Crafting System : 
 	
-![Gif](Screenshots/Gifs/crafting.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/crafting.gif?raw=true)
 	
 #### Building System :
 
-![Gif](Screenshots/Gifs/building-and-sleep.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/building-and-sleep.gif?raw=true)
 	
 #### Attacking System : 
 
-![Gif](Screenshots/Gifs/attacking.gif)
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/attacking.gif?raw=true)
 	
 #### Underwater Effect : 
 
-![Gif](Screenshots/Gifs/underwater-effect.gif)
-
-
-### Credits : 
-
-Created by Şevket Binali - sevketbinali@gmail.com
-
-Kenney assets : [Survival Kit](https://www.kenney.nl/assets/survival-kit) &nbsp; [Animated Characters](https://www.kenney.nl/assets/animated-characters)
-
-Lmhpoly assets : [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
-
-N-hance assets : [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
-
-SFX : [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=) &nbsp; [OpenGameArt](https://opengameart.org)
-
-<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/stargazers">
-     <img alt="Last commit" src="https://img.shields.io/github/stars/sevketbinali/3D-Survival-Game-Unity?style=plastic">
-	
-
+![Gif](https://github.com/wanghoc/Unity_Lab/blob/main/Screenshots/Gifs/underwater-effect.gif?raw=true)
